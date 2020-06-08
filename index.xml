@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yash Sethi</title>
+    <link>https://ysethi92.github.io/</link>
+      <atom:link href="https://ysethi92.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yash Sethi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ysethi92.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yash Sethi</title>
+      <link>https://ysethi92.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Tic Tac Toe</title>
+      <link>https://ysethi92.github.io/project/external-project/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ysethi92.github.io/project/external-project/</guid>
+      <description>&lt;p&gt;Play Tic Tac Toe also, know as Noughts and Crosses on your Android phone. A simple version for everyone, and it&amp;rsquo;s completely free. The best way to pass your time. Tic ac Toe is an AI puzzle game which is the best way to train your brain.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chat Room.</title>
+      <link>https://ysethi92.github.io/project/int_project/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ysethi92.github.io/project/int_project/</guid>
+      <description>&lt;p&gt;• Implemented an Android chat application using Firebase.&lt;/p&gt;
+&lt;p&gt;• Integrated the latest Firebase&amp;rsquo;s, 
+&lt;a href=&#34;https://firebase.google.com/docs/firestore&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud Firestore&lt;/a&gt; for the database.&lt;/p&gt;
+&lt;p&gt;• Also, added Firebase authentication to validate users.&lt;/p&gt;
+&lt;p&gt;Future release : Video calling feature.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text to image synthesis.</title>
+      <link>https://ysethi92.github.io/project/internal-project/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ysethi92.github.io/project/internal-project/</guid>
+      <description>&lt;p&gt;• Implementated a model for synthesizing images for text description using the GAN-CLS algorithm.&lt;/p&gt;
+&lt;p&gt;• Implementation is built on top of a DCGAN in PyTorch.&lt;/p&gt;
+&lt;p&gt;• The text descriptions were encoded using the CNN-RNN model and the DCGAN is trained on those text features.&lt;/p&gt;
+&lt;p&gt;Dataset Source: Caltech - UCSD Birds 200-2011&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Internship Experience at go-mmt, Gurgaon-2019</title>
+      <link>https://ysethi92.github.io/post/goibibo/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ysethi92.github.io/post/goibibo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
