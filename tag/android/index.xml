@@ -7,25 +7,25 @@
     <description>Android</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ysethi92.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ysethi92.github.io/images/icon_hu9eefc60b8e499f7a2eebd0efdd8b5682_37810_512x512_fill_lanczos_center_2.png</url>
       <title>Android</title>
       <link>https://ysethi92.github.io/tag/android/</link>
     </image>
     
     <item>
       <title>Tic Tac Toe</title>
-      <link>https://ysethi92.github.io/project/external-project/</link>
+      <link>https://ysethi92.github.io/project/tictactoe/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://ysethi92.github.io/project/external-project/</guid>
+      <guid>https://ysethi92.github.io/project/tictactoe/</guid>
       <description>&lt;p&gt;Play Tic Tac Toe also, know as Noughts and Crosses on your Android phone. A simple version for everyone, and it&amp;rsquo;s completely free. The best way to pass your time. Tic ac Toe is an AI puzzle game which is the best way to train your brain.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Chat Room.</title>
-      <link>https://ysethi92.github.io/project/int_project/</link>
+      <title>Chat Room</title>
+      <link>https://ysethi92.github.io/project/chatroom/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://ysethi92.github.io/project/int_project/</guid>
+      <guid>https://ysethi92.github.io/project/chatroom/</guid>
       <description>&lt;p&gt;• Implemented an Android chat application using Firebase.&lt;/p&gt;
 &lt;p&gt;• Integrated the latest Firebase&amp;rsquo;s, 
 &lt;a href=&#34;https://firebase.google.com/docs/firestore&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud Firestore&lt;/a&gt; for the database.&lt;/p&gt;

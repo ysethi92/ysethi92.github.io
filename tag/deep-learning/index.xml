@@ -7,16 +7,16 @@
     <description>Deep Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ysethi92.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ysethi92.github.io/images/icon_hu9eefc60b8e499f7a2eebd0efdd8b5682_37810_512x512_fill_lanczos_center_2.png</url>
       <title>Deep Learning</title>
       <link>https://ysethi92.github.io/tag/deep-learning/</link>
     </image>
     
     <item>
-      <title>Text to image synthesis.</title>
-      <link>https://ysethi92.github.io/project/internal-project/</link>
+      <title>Text to image synthesis</title>
+      <link>https://ysethi92.github.io/project/texttoimage/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://ysethi92.github.io/project/internal-project/</guid>
+      <guid>https://ysethi92.github.io/project/texttoimage/</guid>
       <description>&lt;p&gt;• Implementated a model for synthesizing images for text description using the GAN-CLS algorithm.&lt;/p&gt;
 &lt;p&gt;• Implementation is built on top of a DCGAN in PyTorch.&lt;/p&gt;
 &lt;p&gt;• The text descriptions were encoded using the CNN-RNN model and the DCGAN is trained on those text features.&lt;/p&gt;
