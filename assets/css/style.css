@@ -954,15 +954,19 @@ section {
   padding-bottom: 8px;
 }
 .contact .php-email-form .error-message {
+  content: "Your message has been sent. Thank you!";
   display: none;
+  visibility: hidden;
   color: #fff;
-  background: #ed3c0d;
+  background: #0ded50;
   text-align: left;
   padding: 15px;
   font-weight: 600;
 }
 .contact .php-email-form .error-message br + br {
   margin-top: 25px;
+  visibility: hidden;
+  content: "Your message has been sent. Thank you!";
 }
 .contact .php-email-form .sent-message {
   display: none;
@@ -990,6 +994,7 @@ section {
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
 }
+
 .contact .php-email-form input,
 .contact .php-email-form textarea {
   border-radius: 4px;
